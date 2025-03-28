@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - ⚡ I'm Oriol Garrobé
-- 🌱 I’m interested in Machine Learning and Computer Science
-- 🔭 I’m currently working on a project using a Vision Transformer to identify and classify faces in an image
+- 🌱 I’m interested in Machine Learning and Data Engineering
 - 📫 How to reach me: oriol.garrobe@gmail.com
 <!--
 **oriolgarrobe/oriolgarrobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
